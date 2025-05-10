@@ -1,0 +1,13 @@
+langchain_community 
+langchain 
+langgraph  
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain-groq
+langchain-nomic
+langchain-text-splitters
+wikipedia
+langchain_huggingface
+google-search-results
+streamlit
